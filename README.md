@@ -1,4 +1,4 @@
-Hi 👋 My name is Edu Cespedes Ordinola
+Hola 👋 Mi nombre es Edu Cespedes Ordinola
 ======================================
 
 FullStack Developer

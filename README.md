@@ -6,7 +6,7 @@ FullStack Developer
 
 Soy un apasionado de la programación, me gusta el desarrollo web y móvil, he desarrollado muchos proyectos a nivel personal como laboral.
 
-* 🖥️  Visita mi portafolio [Mi Portafolio](http://https://edussj2.github.io/MiPortafolio-EduCespedesOrdinola/)
+* 🖥️  Visita mi portafolio [Mi Portafolio](https://edussj2.github.io/MiPortafolio-EduCespedesOrdinola/)
 * ✉️  Puedes contactarme [educespedes1998@gmail.com](mailto:educespedes1998@gmail.com)
 * 🧠  Constantemente aprendiendo Angular, React, Node, Laravel, Ionic, React Native, Kotlin, Android
 
